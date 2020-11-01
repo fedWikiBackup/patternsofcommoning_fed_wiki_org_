@@ -1,0 +1,57 @@
+{
+  "title": "Aufbau der Musterbeschreibungen",
+  "story": [
+    {
+      "type": "factory",
+      "id": "c435d8257d14aa49"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Aufbau der Musterbeschreibungen",
+        "story": []
+      },
+      "date": 1487288450199
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7b3559d17907a594"
+      },
+      "id": "7b3559d17907a594",
+      "type": "add",
+      "date": 1487288525642
+    },
+    {
+      "type": "edit",
+      "id": "7b3559d17907a594",
+      "item": {
+        "type": "paragraph",
+        "id": "7b3559d17907a594",
+        "text": "Auf diesem Seiten finden sich jene Beschreibungen, die seit 2014 in mehreren Workshops, durch das Studium einschlägiger Literatur oder schlicht durch das Reflektieren eigener Erfahrungen entwickelt wurden. Die Sammlung ist offen und ständig erweiterbar. Und selbstredend ist alles mit allem potentiell verknüpfbar. So wie man verschiedene Wörter zu zahllosen Sätzen mit den unterschiedlichsten Bedeutungen zusammenfügen kann, so gewinnen auch einzelne Muster in einem jeweils anderen Kontext immer wieder neue Bedeutung. Die Verlinkungen machen es den Lesenden möglich, die Mustersammlung digital zu durchwandern.\n\nHier wird nun der Aufbau aller gesammelten Musterentwicklungen beschrieben, nicht zu verwechseln mit dem formalisierten [[Musteraufbau]], der in der Regel  knapper gefasst ist.  Die hier nachzulesenden ausführlicheren Einträge sollen durch die Darstellung konkreter Probleme in ihrem Kontext deutlich machen, wie ein jeweiliges Muster abgeleitet wurde.\n\nAUFBAU DER EINTRÄGE ZU MUSTERENTWICKLUNGEN AUF DIESEM BLOG:\n\n1: MUSTERNAME = Titel des Blogbeitrags\n\n2: MUSTERGRUPPE(N) = die Zugehörigkeit einer jeweiligen Musterbeschreibung zu einer oder mehreren Gruppen  (aka generisches Muster) ist in der ersten Zeile farbig hervorgehoben.\n\nAnschließend werden die konkreten FÄLLE beschrieben und zwar in folgender Abfolgen:;\n\n3: DER KONTEXT = Knappe Darstellung des Kontexts, in dem das konkrete Problem aufgetreten ist. Unter Umständen werden auch wichtige Interessen der Akteure benannt.\n\n4: DAS PROBLEM = Kurzdarstellung des zu lösenden Problems, das als Prototyp begriffen werden kann, denn beschrieben werden Probleme, die so oder ähnlich in vergleichbaren Kontexten immer und immer wieder auftauchen.\n\n5: DIE LÖSUNG = Dargestellt wird eine gefundene erfolgreiche Lösung für den konkreten beschriebenen Problemfall.\n\n6: DIE ERGEBNISSITUATION = Dargestellt wird die neue Situation nach der Umsetzung der Lösung im konkreten Fall.\n\n7. DIE MUSTER = Benannt werden die Muster, die sich in der/n gefundenen Lösung/en erkennen lassen. Von der Lösungbeschreibung im konkreten Fall zur möglichst griffigen Benennung eines Musters zu kommen, ist nicht rein deduktiv, sondern eher ein Prozess der Abduktion.\n\n8. DIE WECHSELWIRKUNGEN = Muster stehen und wirken nicht für sich allein, sondern stehen in Verbindung mit anderen Mustern. Erst aus dem Zusammenwirken mehrerer Muster entfaltet sich die Kraft des Ansatzes. An dieser Stelle wird auf weitere Muster(beschreibungen) verlinkt, mit denen der jeweilige Eintrag in Wechselwirkung steht.\n\n9. QUELLE = in einigen Fällen werden Angaben zur Zeit und Kontext der Enstehung dieser Musterbeschreibung gemacht."
+      },
+      "date": 1487288700217
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c435d8257d14aa49"
+      },
+      "id": "c435d8257d14aa49",
+      "type": "add",
+      "after": "7b3559d17907a594",
+      "date": 1487288718626
+    },
+    {
+      "type": "fork",
+      "date": 1487288721913
+    },
+    {
+      "type": "remove",
+      "id": "7b3559d17907a594",
+      "date": 1487288932323
+    }
+  ]
+}
