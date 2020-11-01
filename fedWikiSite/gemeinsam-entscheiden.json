@@ -1,0 +1,83 @@
+{
+  "title": "gemeinsam-entscheiden",
+  "story": [
+    {
+      "type": "factory",
+      "id": "363c581128b4917b"
+    },
+    {
+      "type": "paragraph",
+      "id": "d7a78dc15b3c3ae4",
+      "text": "[[Mitentscheidungsinstanz des Vertrauens finden]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "01439572760aa06d",
+      "text": "[[Entscheidungsoptionen erweitern]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "gemeinsam-entscheiden",
+        "story": []
+      },
+      "date": 1487287265632
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d7a78dc15b3c3ae4",
+        "text": "[[Mitentscheidungsinstanz des Vertrauens finden]]"
+      },
+      "id": "d7a78dc15b3c3ae4",
+      "type": "add",
+      "date": 1487287283292
+    },
+    {
+      "type": "edit",
+      "id": "d7a78dc15b3c3ae4",
+      "item": {
+        "type": "paragraph",
+        "id": "d7a78dc15b3c3ae4",
+        "text": "[[Mitentscheidungsinstanz des Vertrauens finden]]"
+      },
+      "date": 1487287312488
+    },
+    {
+      "type": "fork",
+      "date": 1487287322381
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "363c581128b4917b"
+      },
+      "id": "363c581128b4917b",
+      "type": "add",
+      "after": "01439572760aa06d",
+      "date": 1487289322933,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error ",
+        "response": "TypeError: nil can't be coerced into Fixnum\n\t/Users/ward/wiki/farm-8080/server/sinatra/server.rb:256:in `+'\n\t/Users/ward/wiki/farm-8080/server/sinatra/server.rb:256:in `block in <class:Controller>'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1151:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1151:in `block in compile!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:225:in `context'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:220:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/showexceptions.rb:21:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/lint.rb:49:in `_call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/lint.rb:37:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/showexceptions.rb:24:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/commonlogger.rb:33:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/chunked.rb:43:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1487289328008
+    },
+    {
+      "type": "add",
+      "id": "01439572760aa06d",
+      "item": {
+        "type": "paragraph",
+        "id": "01439572760aa06d",
+        "text": "[[Entscheidungsoptionen erweitern]]"
+      },
+      "after": "d7a78dc15b3c3ae4",
+      "date": 1487289330153
+    }
+  ]
+}
