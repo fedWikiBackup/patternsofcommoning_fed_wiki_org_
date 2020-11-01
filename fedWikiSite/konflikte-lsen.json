@@ -1,0 +1,53 @@
+{
+  "title": "Konflikte lösen",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1951358f4094f648",
+      "text": "[[Unsichtbares sichtbar machen]]"
+    },
+    {
+      "type": "factory",
+      "id": "301d2f22e933a6f4"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Konflikte lösen",
+        "story": []
+      },
+      "date": 1487289013037
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1951358f4094f648"
+      },
+      "id": "1951358f4094f648",
+      "type": "add",
+      "date": 1487289015831
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "301d2f22e933a6f4"
+      },
+      "id": "301d2f22e933a6f4",
+      "type": "add",
+      "after": "1951358f4094f648",
+      "date": 1487289036255
+    },
+    {
+      "type": "edit",
+      "id": "1951358f4094f648",
+      "item": {
+        "type": "paragraph",
+        "id": "1951358f4094f648",
+        "text": "[[Unsichtbares sichtbar machen]]"
+      },
+      "date": 1487289039421
+    }
+  ]
+}
