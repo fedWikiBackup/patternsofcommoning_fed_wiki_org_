@@ -1,0 +1,62 @@
+{
+  "title": "Verhältnis von Geben und Nehmen",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "133e4b558fd18476",
+      "text": "[[Transparente Kassen]]"
+    },
+    {
+      "type": "factory",
+      "id": "05be67f60b0dfd24"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Verhältnis von Geben und Nehmen",
+        "story": []
+      },
+      "date": 1487288281381
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "133e4b558fd18476",
+        "text": "[[Transparente Kassen]]"
+      },
+      "id": "133e4b558fd18476",
+      "type": "add",
+      "date": 1487288316575
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "05be67f60b0dfd24"
+      },
+      "id": "05be67f60b0dfd24",
+      "type": "add",
+      "after": "133e4b558fd18476",
+      "date": 1487288332976
+    },
+    {
+      "type": "fork",
+      "date": 1487288334601
+    },
+    {
+      "type": "edit",
+      "id": "133e4b558fd18476",
+      "item": {
+        "type": "paragraph",
+        "id": "133e4b558fd18476",
+        "text": "[[Transparente Kassen]]"
+      },
+      "date": 1487288338831
+    },
+    {
+      "type": "fork",
+      "date": 1487288340341
+    }
+  ]
+}
