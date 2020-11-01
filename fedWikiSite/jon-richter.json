@@ -1,0 +1,165 @@
+{
+  "title": "Jon Richter",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0a2a5da4bf06726f",
+      "text": "I'm connecting commons-based mapping projects and developing a geospatial taxonomy for socio-economic initiatives."
+    },
+    {
+      "type": "reference",
+      "id": "d74fa2c200f5df29",
+      "site": "yala.fed.wiki.org",
+      "slug": "jon-richter",
+      "title": "Jon Richter",
+      "text": ". [[1985]] [http://jonrichter.de jonrichter.de]"
+    },
+    {
+      "type": "reference",
+      "id": "a278c146fc5340e8",
+      "site": "patternsofcommoning.fed.wiki.org",
+      "slug": "silke-helfrich",
+      "title": "silke-helfrich",
+      "text": "Silke Helfrich ist eine unabhängige Autorin, Bloggerin, Aktivistin und Forscherin rund um das Thema COMMONS. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Jon Richter",
+        "story": []
+      },
+      "date": 1424735898829
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d74fa2c200f5df29"
+      },
+      "id": "d74fa2c200f5df29",
+      "type": "add",
+      "date": 1424735905478
+    },
+    {
+      "type": "edit",
+      "id": "d74fa2c200f5df29",
+      "item": {
+        "type": "reference",
+        "id": "d74fa2c200f5df29",
+        "site": "yala.fed.wiki.org",
+        "slug": "jon-richter",
+        "title": "Jon Richter",
+        "text": ". [[1985]] [http://jonrichter.de jonrichter.de]"
+      },
+      "date": 1424735909785
+    },
+    {
+      "type": "fork",
+      "site": "jon.wiki.allmende.io"
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "0a2a5da4bf06726f",
+        "text": "I'm connecting commons-based mapping projects and developing a general taxonomy for geospatial and socio-economic initiatives."
+      },
+      "id": "0a2a5da4bf06726f",
+      "date": 1456071692766
+    },
+    {
+      "type": "fork",
+      "site": "jon.mitte.tries.fed.wiki",
+      "date": 1457319559287
+    },
+    {
+      "type": "fork",
+      "site": "jon.federated.wiki",
+      "date": 1457319717778
+    },
+    {
+      "type": "edit",
+      "id": "0a2a5da4bf06726f",
+      "item": {
+        "type": "paragraph",
+        "id": "0a2a5da4bf06726f",
+        "text": "I'm connecting commons-based mapping projects and developing a geospatial taxonomy for socio-economic initiatives."
+      },
+      "date": 1457319768499
+    },
+    {
+      "type": "fork",
+      "site": "jon.wiki.allmende.io",
+      "date": 1457319805634
+    },
+    {
+      "type": "fork",
+      "site": "jon.federated.wiki"
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a278c146fc5340e8"
+      },
+      "id": "a278c146fc5340e8",
+      "type": "add",
+      "after": "d74fa2c200f5df29",
+      "date": 1487285211126
+    },
+    {
+      "type": "edit",
+      "id": "a278c146fc5340e8",
+      "item": {
+        "type": "reference",
+        "id": "a278c146fc5340e8",
+        "site": "patternsofcommoning.fed.wiki.org",
+        "slug": "silke-helfrich",
+        "title": "silke-helfrich",
+        "text": "Silke Helfrich ist eine unabhängige Autorin, Bloggerin, Aktivistin und Forscherin rund um das Thema COMMONS. "
+      },
+      "date": 1487285214915
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0bea1389eff7a49e"
+      },
+      "id": "0bea1389eff7a49e",
+      "type": "add",
+      "after": "a278c146fc5340e8",
+      "date": 1487285240668
+    },
+    {
+      "type": "edit",
+      "id": "0bea1389eff7a49e",
+      "item": {
+        "type": "reference",
+        "id": "0bea1389eff7a49e",
+        "site": "patternsofcommoning.fed.wiki.org",
+        "slug": "silke-helfrich",
+        "title": "silke-helfrich",
+        "text": "Silke Helfrich ist eine unabhängige Autorin, Bloggerin, Aktivistin und Forscherin rund um das Thema COMMONS. "
+      },
+      "date": 1487285243976
+    },
+    {
+      "type": "edit",
+      "id": "0bea1389eff7a49e",
+      "item": {
+        "type": "reference",
+        "id": "0bea1389eff7a49e",
+        "site": "patternsofcommoning.fed.wiki.org",
+        "slug": "silke-helfrich",
+        "title": "silke-helfrich",
+        "text": "\n"
+      },
+      "date": 1487285257789
+    },
+    {
+      "type": "remove",
+      "id": "0bea1389eff7a49e",
+      "date": 1487285264187
+    }
+  ]
+}

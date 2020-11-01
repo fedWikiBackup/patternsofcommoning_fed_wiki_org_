@@ -1,0 +1,209 @@
+{
+  "title": "Mustersprache des Gemeinsamen Handelns",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "365bf4f3c6eedda4",
+      "text": "Die Theorie"
+    },
+    {
+      "type": "paragraph",
+      "id": "b6cd0fdec1be74c9",
+      "text": "[[Musterbeschreibungen in diesem FedWiki]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7dadf4935922bcfa",
+      "text": "Die Praxis"
+    },
+    {
+      "type": "paragraph",
+      "id": "7f7ccb6113b62283",
+      "text": "[[Commons statt Marktlogik]], [[Gemeinsam entscheiden]] [[Verhältnis von Geben und Nehmen]], [[Konflikte lösen]]"
+    },
+    {
+      "type": "factory",
+      "id": "1ed6b47ce7a74506"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Mustersprache des Gemeinsamen Handelns",
+        "story": []
+      },
+      "date": 1487286113316
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a3377b0cdd00e150"
+      },
+      "id": "a3377b0cdd00e150",
+      "type": "add",
+      "date": 1487286186174
+    },
+    {
+      "type": "edit",
+      "id": "a3377b0cdd00e150",
+      "item": {
+        "type": "paragraph",
+        "id": "a3377b0cdd00e150",
+        "text": "Vertrauen schaffen"
+      },
+      "date": 1487286219668
+    },
+    {
+      "type": "remove",
+      "id": "a3377b0cdd00e150",
+      "date": 1487286259753
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "365bf4f3c6eedda4",
+        "text": "[[Vertrauen schaffen]]"
+      },
+      "id": "365bf4f3c6eedda4",
+      "type": "add",
+      "date": 1487286871550
+    },
+    {
+      "type": "fork",
+      "date": 1487286889009
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e5a8673efe276de3"
+      },
+      "id": "e5a8673efe276de3",
+      "type": "add",
+      "after": "365bf4f3c6eedda4",
+      "date": 1487286892621
+    },
+    {
+      "type": "edit",
+      "id": "365bf4f3c6eedda4",
+      "item": {
+        "type": "paragraph",
+        "id": "365bf4f3c6eedda4",
+        "text": "[[Vertrauen schaffen]]"
+      },
+      "date": 1487286895395
+    },
+    {
+      "type": "fork",
+      "date": 1487286897104
+    },
+    {
+      "type": "edit",
+      "id": "365bf4f3c6eedda4",
+      "item": {
+        "type": "paragraph",
+        "id": "365bf4f3c6eedda4",
+        "text": "[[Commons statt Marktlogik]] [[Gemeinsam entscheiden]] "
+      },
+      "date": 1487287164240
+    },
+    {
+      "type": "edit",
+      "id": "365bf4f3c6eedda4",
+      "item": {
+        "type": "paragraph",
+        "id": "365bf4f3c6eedda4",
+        "text": "[[Commons statt Marktlogik]], [[Gemeinsam entscheiden]] [[Verhältnis von Geben und Nehmen]], [[Konflikte lösen]]"
+      },
+      "date": 1487287249896
+    },
+    {
+      "type": "edit",
+      "id": "365bf4f3c6eedda4",
+      "item": {
+        "type": "paragraph",
+        "id": "365bf4f3c6eedda4",
+        "text": "Die Theorie"
+      },
+      "date": 1487287727463
+    },
+    {
+      "type": "add",
+      "id": "7dadf4935922bcfa",
+      "item": {
+        "type": "paragraph",
+        "id": "7dadf4935922bcfa",
+        "text": "[[Commons statt Marktlogik]], [[Gemeinsam entscheiden]] [[Verhältnis von Geben und Nehmen]], [[Konflikte lösen]]"
+      },
+      "after": "365bf4f3c6eedda4",
+      "date": 1487287730987
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1ed6b47ce7a74506"
+      },
+      "id": "1ed6b47ce7a74506",
+      "type": "add",
+      "after": "e5a8673efe276de3",
+      "date": 1487287754831
+    },
+    {
+      "type": "remove",
+      "id": "e5a8673efe276de3",
+      "date": 1487287762671
+    },
+    {
+      "type": "add",
+      "id": "b6cd0fdec1be74c9",
+      "item": {
+        "type": "paragraph",
+        "id": "b6cd0fdec1be74c9",
+        "text": "[["
+      },
+      "after": "365bf4f3c6eedda4",
+      "date": 1487287776046
+    },
+    {
+      "type": "edit",
+      "id": "b6cd0fdec1be74c9",
+      "item": {
+        "type": "paragraph",
+        "id": "b6cd0fdec1be74c9",
+        "text": "[[Aufbau der Musterbeschreibungen]]"
+      },
+      "date": 1487288362201
+    },
+    {
+      "type": "edit",
+      "id": "7dadf4935922bcfa",
+      "item": {
+        "type": "paragraph",
+        "id": "7dadf4935922bcfa",
+        "text": "Die Praxis"
+      },
+      "date": 1487288368336
+    },
+    {
+      "type": "add",
+      "id": "7f7ccb6113b62283",
+      "item": {
+        "type": "paragraph",
+        "id": "7f7ccb6113b62283",
+        "text": "[[Commons statt Marktlogik]], [[Gemeinsam entscheiden]] [[Verhältnis von Geben und Nehmen]], [[Konflikte lösen]]"
+      },
+      "after": "7dadf4935922bcfa",
+      "date": 1487288370406
+    },
+    {
+      "type": "edit",
+      "id": "b6cd0fdec1be74c9",
+      "item": {
+        "type": "paragraph",
+        "id": "b6cd0fdec1be74c9",
+        "text": "[[Musterbeschreibungen in diesem FedWiki]]"
+      },
+      "date": 1487288740929
+    }
+  ]
+}

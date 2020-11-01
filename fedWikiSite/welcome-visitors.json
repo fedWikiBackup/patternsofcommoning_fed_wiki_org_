@@ -1,0 +1,498 @@
+{
+  "title": "Welcome Visitors",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "80e0c458a99126db",
+      "text": "At my place of the [[Smallest Federated Wiki]] I am [[Silke Helfrich]] and I'm working on the commons and care for Mapping as a commons as opposed to Mapping the Commons, whereas I also love the latter. But most importantly, I am co-constructing here what I call [[Patterns of Commoning]]. "
+    },
+    {
+      "text": "",
+      "id": "7b56f22a4b9ee974",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "821827c99b90cfd1",
+      "text": "Pages about us."
+    },
+    {
+      "type": "paragraph",
+      "id": "9e4d41cd950f075a",
+      "text": "[[Commons Space]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "05e2fa92643677ca",
+      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+      "text": "[[World Social Forum 2016]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "2bbd646ff3f44b51",
+      "text": "Pages where we do and share."
+    },
+    {
+      "type": "paragraph",
+      "id": "28ba83755381f11e",
+      "text": "[[Mapping for Transformation]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "aaf9de726d3050b0",
+      "text": "[[Global Commons Charter]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ee416d431ebf4fb4",
+      "text": "Note: Edit your copy of these pages by pressing [+]. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "f4888a33cdde9052",
+      "text": "[[A Journeyman's path]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Welcome Visitors",
+        "story": []
+      },
+      "date": 1420938191608
+    },
+    {
+      "type": "add",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "id": "7b56f22a4b9ee974",
+      "date": 1420938199166
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about us."
+      },
+      "after": "7b56f22a4b9ee974",
+      "id": "821827c99b90cfd1",
+      "date": 1420938202921
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below."
+      },
+      "after": "821827c99b90cfd1",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1420938208737
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages where we do and share."
+      },
+      "after": "63ad2e58eecdd9e5",
+      "id": "2bbd646ff3f44b51",
+      "date": 1420938212624
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+      },
+      "after": "2bbd646ff3f44b51",
+      "id": "05e2fa92643677ca",
+      "date": 1420938216782
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "after": "05e2fa92643677ca",
+      "id": "ee416d431ebf4fb4",
+      "date": 1420938220851
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "reference",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+        "site": "jon.federated.wiki",
+        "slug": "jon-richter",
+        "title": "Jon Richter",
+        "text": "I'm connecting commons-based mapping projects and developing a geospatial taxonomy for socio-economic initiatives."
+      },
+      "date": 1469617117636
+    },
+    {
+      "type": "edit",
+      "id": "05e2fa92643677ca",
+      "item": {
+        "type": "paragraph",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save.",
+        "text": "[[World Social Forum 2016]]"
+      },
+      "date": 1469617227661
+    },
+    {
+      "type": "add",
+      "id": "9e4d41cd950f075a",
+      "item": {
+        "type": "paragraph",
+        "id": "9e4d41cd950f075a",
+        "text": "[[Commons Space]]"
+      },
+      "after": "05e2fa92643677ca",
+      "date": 1469617234364
+    },
+    {
+      "type": "add",
+      "id": "18ad8b15e4f39e43",
+      "item": {
+        "type": "paragraph",
+        "id": "18ad8b15e4f39e43",
+        "text": "[[Mapping the Transformations]]"
+      },
+      "after": "9e4d41cd950f075a",
+      "date": 1469617248049
+    },
+    {
+      "type": "add",
+      "id": "f4888a33cdde9052",
+      "item": {
+        "type": "paragraph",
+        "id": "f4888a33cdde9052",
+        "text": "[[A Journeyman's path]]"
+      },
+      "after": "18ad8b15e4f39e43",
+      "date": 1469617317866
+    },
+    {
+      "type": "fork",
+      "site": "2016.wsf.federated.wiki",
+      "date": 1469621234138
+    },
+    {
+      "type": "add",
+      "id": "28ba83755381f11e",
+      "item": {
+        "type": "paragraph",
+        "id": "28ba83755381f11e",
+        "text": "[[Mapping for Transformation]]"
+      },
+      "after": "9e4d41cd950f075a",
+      "date": 1470696728223
+    },
+    {
+      "type": "add",
+      "id": "aaf9de726d3050b0",
+      "item": {
+        "type": "paragraph",
+        "id": "aaf9de726d3050b0",
+        "text": "[[Global Commons Charter]]"
+      },
+      "after": "28ba83755381f11e",
+      "date": 1470704507750
+    },
+    {
+      "type": "remove",
+      "id": "18ad8b15e4f39e43",
+      "date": 1470878931801
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "9e4d41cd950f075a",
+        "28ba83755381f11e",
+        "aaf9de726d3050b0",
+        "ee416d431ebf4fb4",
+        "f4888a33cdde9052"
+      ],
+      "id": "f4888a33cdde9052",
+      "date": 1471393424557
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "9e4d41cd950f075a",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "28ba83755381f11e",
+        "aaf9de726d3050b0",
+        "ee416d431ebf4fb4",
+        "f4888a33cdde9052"
+      ],
+      "id": "9e4d41cd950f075a",
+      "date": 1471393433207
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "9e4d41cd950f075a",
+        "05e2fa92643677ca",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "28ba83755381f11e",
+        "aaf9de726d3050b0",
+        "ee416d431ebf4fb4",
+        "f4888a33cdde9052"
+      ],
+      "id": "05e2fa92643677ca",
+      "date": 1471393435961
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "80e0c458a99126db"
+      },
+      "id": "80e0c458a99126db",
+      "type": "add",
+      "after": "f4888a33cdde9052",
+      "date": 1471630323835,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "80e0c458a99126db",
+      "item": {
+        "type": "paragraph",
+        "id": "80e0c458a99126db",
+        "text": "Silke Helfrich - I'm working on the commons ans care for Mapping as a commons as opposed to Mapping the Commons, whereas I also love the latter. http://patternsofcommoning.fed.wiki.org/view/welcome-visitors/view/silke-helfrich/jon.2016.wsf.federated.wiki/welcome-visitors/2016.wsf.federated.wiki/commons-space"
+      },
+      "date": 1471630455789,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1472745536815
+    },
+    {
+      "type": "fork",
+      "site": "jon.2016.wsf.federated.wiki",
+      "date": 1487283845126
+    },
+    {
+      "type": "edit",
+      "id": "80e0c458a99126db",
+      "item": {
+        "type": "paragraph",
+        "id": "80e0c458a99126db",
+        "text": "Silke Helfrich - I'm working on the commons ans care for Mapping as a commons as opposed to Mapping the Commons, whereas I also love the latter. http://patternsofcommoning.fed.wiki.org/view/welcome-visitors/view/silke-helfrich/jon.2016.wsf.federated.wiki/welcome-visitors/2016.wsf.federated.wiki/commons-space"
+      },
+      "date": 1487283853995,
+      "fork": "jon.2016.wsf.federated.wiki"
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "9e4d41cd950f075a",
+        "05e2fa92643677ca",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "28ba83755381f11e",
+        "aaf9de726d3050b0",
+        "ee416d431ebf4fb4",
+        "f4888a33cdde9052",
+        "79f73dd3ef476e40",
+        "80e0c458a99126db"
+      ],
+      "id": "80e0c458a99126db",
+      "date": 1487283861573,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error ",
+        "response": "RuntimeError: Ignoring move. Try reload.\n\t/Users/ward/wiki/farm-8080/server/sinatra/server.rb:254:in `block (2 levels) in <class:Controller>'\n\t/Users/ward/wiki/farm-8080/server/sinatra/server.rb:254:in `collect'\n\t/Users/ward/wiki/farm-8080/server/sinatra/server.rb:254:in `block in <class:Controller>'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1151:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1151:in `block in compile!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:225:in `context'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:220:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/showexceptions.rb:21:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/lint.rb:49:in `_call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/lint.rb:37:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/showexceptions.rb:24:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/commonlogger.rb:33:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/chunked.rb:43:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "0cbb4ef5f5d7e472",
+      "date": 1487284744479,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error ",
+        "response": "TypeError: no implicit conversion from nil to integer\n\t/Users/ward/wiki/farm-8080/server/sinatra/server.rb:259:in `delete_at'\n\t/Users/ward/wiki/farm-8080/server/sinatra/server.rb:259:in `block in <class:Controller>'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1151:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1151:in `block in compile!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:225:in `context'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:220:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/showexceptions.rb:21:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/lint.rb:49:in `_call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/lint.rb:37:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/showexceptions.rb:24:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/commonlogger.rb:33:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/chunked.rb:43:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "80e0c458a99126db",
+        "69a2c482a4a0aa84",
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "9e4d41cd950f075a",
+        "63ad2e58eecdd9e5",
+        "05e2fa92643677ca",
+        "2bbd646ff3f44b51",
+        "28ba83755381f11e",
+        "aaf9de726d3050b0",
+        "ee416d431ebf4fb4",
+        "f4888a33cdde9052"
+      ],
+      "id": "63ad2e58eecdd9e5",
+      "date": 1487285508900,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error ",
+        "response": "RuntimeError: Ignoring move. Try reload.\n\t/Users/ward/wiki/farm-8080/server/sinatra/server.rb:254:in `block (2 levels) in <class:Controller>'\n\t/Users/ward/wiki/farm-8080/server/sinatra/server.rb:254:in `collect'\n\t/Users/ward/wiki/farm-8080/server/sinatra/server.rb:254:in `block in <class:Controller>'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1151:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1151:in `block in compile!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:225:in `context'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:220:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/showexceptions.rb:21:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/lint.rb:49:in `_call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/lint.rb:37:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/showexceptions.rb:24:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/commonlogger.rb:33:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/chunked.rb:43:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'"
+      }
+    },
+    {
+      "type": "move",
+      "order": [
+        "80e0c458a99126db",
+        "69a2c482a4a0aa84",
+        "7b56f22a4b9ee974",
+        "63ad2e58eecdd9e5",
+        "821827c99b90cfd1",
+        "9e4d41cd950f075a",
+        "05e2fa92643677ca",
+        "2bbd646ff3f44b51",
+        "28ba83755381f11e",
+        "aaf9de726d3050b0",
+        "ee416d431ebf4fb4",
+        "f4888a33cdde9052"
+      ],
+      "id": "63ad2e58eecdd9e5",
+      "date": 1487285512363,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error ",
+        "response": "RuntimeError: Ignoring move. Try reload.\n\t/Users/ward/wiki/farm-8080/server/sinatra/server.rb:254:in `block (2 levels) in <class:Controller>'\n\t/Users/ward/wiki/farm-8080/server/sinatra/server.rb:254:in `collect'\n\t/Users/ward/wiki/farm-8080/server/sinatra/server.rb:254:in `block in <class:Controller>'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1151:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1151:in `block in compile!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:225:in `context'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:220:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/showexceptions.rb:21:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/lint.rb:49:in `_call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/lint.rb:37:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/showexceptions.rb:24:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/commonlogger.rb:33:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/chunked.rb:43:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'"
+      }
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1487285518111,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error ",
+        "response": "TypeError: no implicit conversion from nil to integer\n\t/Users/ward/wiki/farm-8080/server/sinatra/server.rb:259:in `delete_at'\n\t/Users/ward/wiki/farm-8080/server/sinatra/server.rb:259:in `block in <class:Controller>'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1151:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1151:in `block in compile!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:225:in `context'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:220:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/showexceptions.rb:21:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/lint.rb:49:in `_call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/lint.rb:37:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/showexceptions.rb:24:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/commonlogger.rb:33:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/chunked.rb:43:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'\n\t/Users/ward/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'\n\t/Users/ward/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "80e0c458a99126db",
+      "item": {
+        "type": "paragraph",
+        "id": "80e0c458a99126db",
+        "text": "At my place of the [[Smallest Federated Wiki]] I am [[Silke Helfrich]] and I'm working on the commons and care for Mapping as a commons as opposed to Mapping the Commons, whereas I also love the latter. But most importantly, I am co-constructing here what I call [[Patterns of Commoning]]. "
+      },
+      "date": 1487286473169
+    },
+    {
+      "type": "fork",
+      "date": 1487286532821
+    },
+    {
+      "type": "fork",
+      "date": 1487286537359
+    },
+    {
+      "type": "edit",
+      "id": "ee416d431ebf4fb4",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "Note: Edit your copy of these pages by pressing [+]. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]]."
+      },
+      "date": 1487286543838
+    },
+    {
+      "type": "fork",
+      "date": 1487286546546
+    },
+    {
+      "type": "fork",
+      "date": 1487286549332
+    },
+    {
+      "type": "fork",
+      "date": 1487286551217
+    },
+    {
+      "type": "edit",
+      "id": "80e0c458a99126db",
+      "item": {
+        "type": "paragraph",
+        "id": "80e0c458a99126db",
+        "text": "At my place of the [[Smallest Federated Wiki]] I am [[Silke Helfrich]] and I'm working on the commons and care for Mapping as a commons as opposed to Mapping the Commons, whereas I also love the latter. But most importantly, I am co-constructing here what I call [[Patterns of Commoning]]. "
+      },
+      "date": 1487286609322
+    },
+    {
+      "type": "edit",
+      "id": "80e0c458a99126db",
+      "item": {
+        "type": "paragraph",
+        "id": "80e0c458a99126db",
+        "text": "At my place of the [[Smallest Federated Wiki]] I am [[Silke Helfrich]] and I'm working on the commons and care for Mapping as a commons as opposed to Mapping the Commons, whereas I also love the latter. But most importantly, I am co-constructing here what I call [[Patterns of Commoning]]. "
+      },
+      "date": 1487286618932
+    },
+    {
+      "type": "edit",
+      "id": "80e0c458a99126db",
+      "item": {
+        "type": "paragraph",
+        "id": "80e0c458a99126db",
+        "text": "At my place of the [[Smallest Federated Wiki]] I am [[Silke Helfrich]] and I'm working on the commons and care for Mapping as a commons as opposed to Mapping the Commons, whereas I also love the latter. But most importantly, I am co-constructing here what I call [[Patterns of Commoning]]. "
+      },
+      "date": 1487286703756
+    },
+    {
+      "type": "edit",
+      "id": "80e0c458a99126db",
+      "item": {
+        "type": "paragraph",
+        "id": "80e0c458a99126db",
+        "text": "At my place of the [[Smallest Federated Wiki]] I am [[Silke Helfrich]] and I'm working on the commons and care for Mapping as a commons as opposed to Mapping the Commons, whereas I also love the latter. But most importantly, I am co-constructing here what I call [[Patterns of Commoning]]. "
+      },
+      "date": 1487286723452
+    },
+    {
+      "type": "fork",
+      "date": 1487286725939
+    }
+  ]
+}

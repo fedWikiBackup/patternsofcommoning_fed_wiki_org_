@@ -1,0 +1,87 @@
+{
+  "title": "Commons statt Marktlogik",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "78e0d9d317e85c0a",
+      "text": "[[Mitentscheidungsinstanz des Vertrauens finden]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a0b65ef7184dd1f2",
+      "text": "[[Commons vor Marktlogik schützen]]"
+    },
+    {
+      "type": "factory",
+      "id": "f3748e3440f0b5a6"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Commons statt Marktlogik",
+        "story": []
+      },
+      "date": 1487287418205
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "78e0d9d317e85c0a"
+      },
+      "id": "78e0d9d317e85c0a",
+      "type": "add",
+      "date": 1487287424370
+    },
+    {
+      "type": "fork",
+      "date": 1487287450055
+    },
+    {
+      "type": "edit",
+      "id": "78e0d9d317e85c0a",
+      "item": {
+        "type": "paragraph",
+        "id": "78e0d9d317e85c0a",
+        "text": "[[Mitentscheidungsinstanz des Vertrauens finden]]"
+      },
+      "date": 1487287451730
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a0b65ef7184dd1f2",
+        "text": "[[Commons vor Marktlogik schützen]]"
+      },
+      "id": "a0b65ef7184dd1f2",
+      "type": "add",
+      "after": "78e0d9d317e85c0a",
+      "date": 1487287527123
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f3748e3440f0b5a6"
+      },
+      "id": "f3748e3440f0b5a6",
+      "type": "add",
+      "after": "a0b65ef7184dd1f2",
+      "date": 1487287544418
+    },
+    {
+      "type": "edit",
+      "id": "a0b65ef7184dd1f2",
+      "item": {
+        "type": "paragraph",
+        "id": "a0b65ef7184dd1f2",
+        "text": "[[Commons vor Marktlogik schützen]]"
+      },
+      "date": 1487287547476
+    },
+    {
+      "type": "fork",
+      "date": 1487287548957
+    }
+  ]
+}

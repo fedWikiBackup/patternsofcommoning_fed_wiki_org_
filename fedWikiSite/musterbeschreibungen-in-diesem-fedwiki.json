@@ -1,0 +1,122 @@
+{
+  "title": "Musterbeschreibungen in diesem FedWiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "58c66fdc8bcb2b8e",
+      "text": "GRUPPE: [[Methodisches]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "fd84956540e44934",
+      "text": "Hier finden sich Beschreibungen, die seit 2014 in Workshops, durch Literaturstudium oder durch die Reflexion eigener Erfahrungen entwickelt wurden. Die Sammlung ist offen und ständig erweiterbar. Und selbstredend kann Vieles miteinander verknüpft werden. So wie man verschiedene Wörter zu zahllosen Sätzen mit sehr unterschiedlichen Bedeutungen zusammenfügen kann, so gewinnen auch einzelne Muster in einem jeweils anderen Kontext immer wieder neuen Sinn. Die Verknüpfungen machen es den Lesenden möglich, die Mustersammlung digital zu durchwandern.\n\nHier wird nun der Aufbau aller gesammelten Musterentwicklungen beschrieben, nicht zu verwechseln mit dem formalisierten [[Musteraufbau]], der in der Regel  knapper gefasst ist.  Die hier nachzulesenden ausführlicheren Einträge sollen durch die Darstellung konkreter Probleme in ihrem Kontext deutlich machen, wie ein jeweiliges Muster abgeleitet wurde.\n\nAUFBAU DER EINTRÄGE ZU MUSTERENTWICKLUNGEN AUF DIESEM BLOG:\n\n1: MUSTERNAME = Titel des Blogbeitrags\n\n2: MUSTERGRUPPE(N) = die Zugehörigkeit einer jeweiligen Musterbeschreibung zu einer oder mehreren Gruppen  (aka generisches Muster) ist in der ersten Zeile farbig hervorgehoben.\n\nAnschließend werden die konkreten FÄLLE beschrieben und zwar in folgender Abfolgen:;\n\n3: DER KONTEXT = Knappe Darstellung des Kontexts, in dem das konkrete Problem aufgetreten ist. Unter Umständen werden auch wichtige Interessen der Akteure benannt.\n\n4: DAS PROBLEM = Kurzdarstellung des zu lösenden Problems, das als Prototyp begriffen werden kann, denn beschrieben werden Probleme, die so oder ähnlich in vergleichbaren Kontexten immer und immer wieder auftauchen.\n\n5: DIE LÖSUNG = Dargestellt wird eine gefundene erfolgreiche Lösung für den konkreten beschriebenen Problemfall.\n\n6: DIE ERGEBNISSITUATION = Dargestellt wird die neue Situation nach der Umsetzung der Lösung im konkreten Fall.\n\n7. DIE MUSTER = Benannt werden die Muster, die sich in der/n gefundenen Lösung/en erkennen lassen. Von der Lösungbeschreibung im konkreten Fall zur möglichst griffigen Benennung eines Musters zu kommen, ist nicht rein deduktiv, sondern eher ein Prozess der Abduktion.\n\n8. DIE WECHSELWIRKUNGEN = Muster stehen und wirken nicht für sich allein, sondern stehen in Verbindung mit anderen Mustern. Erst aus dem Zusammenwirken mehrerer Muster entfaltet sich die Kraft des Ansatzes. An dieser Stelle wird auf weitere Muster(beschreibungen) verlinkt, mit denen der jeweilige Eintrag in Wechselwirkung steht.\n\n9. QUELLE = in einigen Fällen werden Angaben zur Zeit und Kontext der Enstehung dieser Musterbeschreibung gemacht."
+    },
+    {
+      "type": "factory",
+      "id": "99ebe7a65d880956"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Musterbeschreibungen in diesem FedWiki",
+        "story": []
+      },
+      "date": 1487288940158
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "58c66fdc8bcb2b8e",
+        "text": "Auf diesem Seiten finden sich jene Beschreibungen, die seit 2014 in mehreren Workshops, durch das Studium einschlägiger Literatur oder schlicht durch das Reflektieren eigener Erfahrungen entwickelt wurden. Die Sammlung ist offen und ständig erweiterbar. Und selbstredend ist alles mit allem potentiell verknüpfbar. So wie man verschiedene Wörter zu zahllosen Sätzen mit den unterschiedlichsten Bedeutungen zusammenfügen kann, so gewinnen auch einzelne Muster in einem jeweils anderen Kontext immer wieder neue Bedeutung. Die Verlinkungen machen es den Lesenden möglich, die Mustersammlung digital zu durchwandern.\n\nHier wird nun der Aufbau aller gesammelten Musterentwicklungen beschrieben, nicht zu verwechseln mit dem formalisierten [[Musteraufbau]], der in der Regel  knapper gefasst ist.  Die hier nachzulesenden ausführlicheren Einträge sollen durch die Darstellung konkreter Probleme in ihrem Kontext deutlich machen, wie ein jeweiliges Muster abgeleitet wurde.\n\nAUFBAU DER EINTRÄGE ZU MUSTERENTWICKLUNGEN AUF DIESEM BLOG:\n\n1: MUSTERNAME = Titel des Blogbeitrags\n\n2: MUSTERGRUPPE(N) = die Zugehörigkeit einer jeweiligen Musterbeschreibung zu einer oder mehreren Gruppen  (aka generisches Muster) ist in der ersten Zeile farbig hervorgehoben.\n\nAnschließend werden die konkreten FÄLLE beschrieben und zwar in folgender Abfolgen:;\n\n3: DER KONTEXT = Knappe Darstellung des Kontexts, in dem das konkrete Problem aufgetreten ist. Unter Umständen werden auch wichtige Interessen der Akteure benannt.\n\n4: DAS PROBLEM = Kurzdarstellung des zu lösenden Problems, das als Prototyp begriffen werden kann, denn beschrieben werden Probleme, die so oder ähnlich in vergleichbaren Kontexten immer und immer wieder auftauchen.\n\n5: DIE LÖSUNG = Dargestellt wird eine gefundene erfolgreiche Lösung für den konkreten beschriebenen Problemfall.\n\n6: DIE ERGEBNISSITUATION = Dargestellt wird die neue Situation nach der Umsetzung der Lösung im konkreten Fall.\n\n7. DIE MUSTER = Benannt werden die Muster, die sich in der/n gefundenen Lösung/en erkennen lassen. Von der Lösungbeschreibung im konkreten Fall zur möglichst griffigen Benennung eines Musters zu kommen, ist nicht rein deduktiv, sondern eher ein Prozess der Abduktion.\n\n8. DIE WECHSELWIRKUNGEN = Muster stehen und wirken nicht für sich allein, sondern stehen in Verbindung mit anderen Mustern. Erst aus dem Zusammenwirken mehrerer Muster entfaltet sich die Kraft des Ansatzes. An dieser Stelle wird auf weitere Muster(beschreibungen) verlinkt, mit denen der jeweilige Eintrag in Wechselwirkung steht.\n\n9. QUELLE = in einigen Fällen werden Angaben zur Zeit und Kontext der Enstehung dieser Musterbeschreibung gemacht."
+      },
+      "id": "58c66fdc8bcb2b8e",
+      "type": "add",
+      "date": 1487288943901
+    },
+    {
+      "type": "edit",
+      "id": "58c66fdc8bcb2b8e",
+      "item": {
+        "type": "paragraph",
+        "id": "58c66fdc8bcb2b8e",
+        "text": "Auf diesem Seiten finden sich jene Beschreibungen, die seit 2014 in mehreren Workshops, durch das Studium einschlägiger Literatur oder schlicht durch das Reflektieren eigener Erfahrungen entwickelt wurden. Die Sammlung ist offen und ständig erweiterbar. Und selbstredend ist alles mit allem potentiell verknüpfbar. So wie man verschiedene Wörter zu zahllosen Sätzen mit den unterschiedlichsten Bedeutungen zusammenfügen kann, so gewinnen auch einzelne Muster in einem jeweils anderen Kontext immer wieder neue Bedeutung. Die Verlinkungen machen es den Lesenden möglich, die Mustersammlung digital zu durchwandern.\n\nHier wird nun der Aufbau aller gesammelten Musterentwicklungen beschrieben, nicht zu verwechseln mit dem formalisierten [[Musteraufbau]], der in der Regel  knapper gefasst ist.  Die hier nachzulesenden ausführlicheren Einträge sollen durch die Darstellung konkreter Probleme in ihrem Kontext deutlich machen, wie ein jeweiliges Muster abgeleitet wurde.\n\nAUFBAU DER EINTRÄGE ZU MUSTERENTWICKLUNGEN AUF DIESEM BLOG:\n\n1: MUSTERNAME = Titel des Blogbeitrags\n\n2: MUSTERGRUPPE(N) = die Zugehörigkeit einer jeweiligen Musterbeschreibung zu einer oder mehreren Gruppen  (aka generisches Muster) ist in der ersten Zeile farbig hervorgehoben.\n\nAnschließend werden die konkreten FÄLLE beschrieben und zwar in folgender Abfolgen:;\n\n3: DER KONTEXT = Knappe Darstellung des Kontexts, in dem das konkrete Problem aufgetreten ist. Unter Umständen werden auch wichtige Interessen der Akteure benannt.\n\n4: DAS PROBLEM = Kurzdarstellung des zu lösenden Problems, das als Prototyp begriffen werden kann, denn beschrieben werden Probleme, die so oder ähnlich in vergleichbaren Kontexten immer und immer wieder auftauchen.\n\n5: DIE LÖSUNG = Dargestellt wird eine gefundene erfolgreiche Lösung für den konkreten beschriebenen Problemfall.\n\n6: DIE ERGEBNISSITUATION = Dargestellt wird die neue Situation nach der Umsetzung der Lösung im konkreten Fall.\n\n7. DIE MUSTER = Benannt werden die Muster, die sich in der/n gefundenen Lösung/en erkennen lassen. Von der Lösungbeschreibung im konkreten Fall zur möglichst griffigen Benennung eines Musters zu kommen, ist nicht rein deduktiv, sondern eher ein Prozess der Abduktion.\n\n8. DIE WECHSELWIRKUNGEN = Muster stehen und wirken nicht für sich allein, sondern stehen in Verbindung mit anderen Mustern. Erst aus dem Zusammenwirken mehrerer Muster entfaltet sich die Kraft des Ansatzes. An dieser Stelle wird auf weitere Muster(beschreibungen) verlinkt, mit denen der jeweilige Eintrag in Wechselwirkung steht.\n\n9. QUELLE = in einigen Fällen werden Angaben zur Zeit und Kontext der Enstehung dieser Musterbeschreibung gemacht."
+      },
+      "date": 1487288949137
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "99ebe7a65d880956"
+      },
+      "id": "99ebe7a65d880956",
+      "type": "add",
+      "after": "58c66fdc8bcb2b8e",
+      "date": 1487288962533
+    },
+    {
+      "type": "fork",
+      "date": 1487288964144
+    },
+    {
+      "type": "edit",
+      "id": "58c66fdc8bcb2b8e",
+      "item": {
+        "type": "paragraph",
+        "id": "58c66fdc8bcb2b8e",
+        "text": "Auf diesen Seiten finden sich jene Beschreibungen, die seit 2014 in mehreren Workshops, durch das Studium einschlägiger Literatur oder schlicht durch das Reflektieren eigener Erfahrungen entwickelt wurden. Die Sammlung ist offen und ständig erweiterbar. Und selbstredend ist alles mit allem potentiell verknüpfbar. So wie man verschiedene Wörter zu zahllosen Sätzen mit den unterschiedlichsten Bedeutungen zusammenfügen kann, so gewinnen auch einzelne Muster in einem jeweils anderen Kontext immer wieder neue Bedeutung. Die Verlinkungen machen es den Lesenden möglich, die Mustersammlung digital zu durchwandern.\n\nHier wird nun der Aufbau aller gesammelten Musterentwicklungen beschrieben, nicht zu verwechseln mit dem formalisierten [[Musteraufbau]], der in der Regel  knapper gefasst ist.  Die hier nachzulesenden ausführlicheren Einträge sollen durch die Darstellung konkreter Probleme in ihrem Kontext deutlich machen, wie ein jeweiliges Muster abgeleitet wurde.\n\nAUFBAU DER EINTRÄGE ZU MUSTERENTWICKLUNGEN AUF DIESEM BLOG:\n\n1: MUSTERNAME = Titel des Blogbeitrags\n\n2: MUSTERGRUPPE(N) = die Zugehörigkeit einer jeweiligen Musterbeschreibung zu einer oder mehreren Gruppen  (aka generisches Muster) ist in der ersten Zeile farbig hervorgehoben.\n\nAnschließend werden die konkreten FÄLLE beschrieben und zwar in folgender Abfolgen:;\n\n3: DER KONTEXT = Knappe Darstellung des Kontexts, in dem das konkrete Problem aufgetreten ist. Unter Umständen werden auch wichtige Interessen der Akteure benannt.\n\n4: DAS PROBLEM = Kurzdarstellung des zu lösenden Problems, das als Prototyp begriffen werden kann, denn beschrieben werden Probleme, die so oder ähnlich in vergleichbaren Kontexten immer und immer wieder auftauchen.\n\n5: DIE LÖSUNG = Dargestellt wird eine gefundene erfolgreiche Lösung für den konkreten beschriebenen Problemfall.\n\n6: DIE ERGEBNISSITUATION = Dargestellt wird die neue Situation nach der Umsetzung der Lösung im konkreten Fall.\n\n7. DIE MUSTER = Benannt werden die Muster, die sich in der/n gefundenen Lösung/en erkennen lassen. Von der Lösungbeschreibung im konkreten Fall zur möglichst griffigen Benennung eines Musters zu kommen, ist nicht rein deduktiv, sondern eher ein Prozess der Abduktion.\n\n8. DIE WECHSELWIRKUNGEN = Muster stehen und wirken nicht für sich allein, sondern stehen in Verbindung mit anderen Mustern. Erst aus dem Zusammenwirken mehrerer Muster entfaltet sich die Kraft des Ansatzes. An dieser Stelle wird auf weitere Muster(beschreibungen) verlinkt, mit denen der jeweilige Eintrag in Wechselwirkung steht.\n\n9. QUELLE = in einigen Fällen werden Angaben zur Zeit und Kontext der Enstehung dieser Musterbeschreibung gemacht."
+      },
+      "date": 1487288971115
+    },
+    {
+      "type": "edit",
+      "id": "58c66fdc8bcb2b8e",
+      "item": {
+        "type": "paragraph",
+        "id": "58c66fdc8bcb2b8e",
+        "text": "[[Methodisches]]"
+      },
+      "date": 1487289226046
+    },
+    {
+      "type": "add",
+      "id": "fd84956540e44934",
+      "item": {
+        "type": "paragraph",
+        "id": "fd84956540e44934",
+        "text": "Auf diesen Seiten finden sich jene Beschreibungen, die seit 2014 in mehreren Workshops, durch das Studium einschlägiger Literatur oder schlicht durch das Reflektieren eigener Erfahrungen entwickelt wurden. Die Sammlung ist offen und ständig erweiterbar. Und selbstredend ist alles mit allem potentiell verknüpfbar. So wie man verschiedene Wörter zu zahllosen Sätzen mit den unterschiedlichsten Bedeutungen zusammenfügen kann, so gewinnen auch einzelne Muster in einem jeweils anderen Kontext immer wieder neue Bedeutung. Die Verlinkungen machen es den Lesenden möglich, die Mustersammlung digital zu durchwandern.\n\nHier wird nun der Aufbau aller gesammelten Musterentwicklungen beschrieben, nicht zu verwechseln mit dem formalisierten [[Musteraufbau]], der in der Regel  knapper gefasst ist.  Die hier nachzulesenden ausführlicheren Einträge sollen durch die Darstellung konkreter Probleme in ihrem Kontext deutlich machen, wie ein jeweiliges Muster abgeleitet wurde.\n\nAUFBAU DER EINTRÄGE ZU MUSTERENTWICKLUNGEN AUF DIESEM BLOG:\n\n1: MUSTERNAME = Titel des Blogbeitrags\n\n2: MUSTERGRUPPE(N) = die Zugehörigkeit einer jeweiligen Musterbeschreibung zu einer oder mehreren Gruppen  (aka generisches Muster) ist in der ersten Zeile farbig hervorgehoben.\n\nAnschließend werden die konkreten FÄLLE beschrieben und zwar in folgender Abfolgen:;\n\n3: DER KONTEXT = Knappe Darstellung des Kontexts, in dem das konkrete Problem aufgetreten ist. Unter Umständen werden auch wichtige Interessen der Akteure benannt.\n\n4: DAS PROBLEM = Kurzdarstellung des zu lösenden Problems, das als Prototyp begriffen werden kann, denn beschrieben werden Probleme, die so oder ähnlich in vergleichbaren Kontexten immer und immer wieder auftauchen.\n\n5: DIE LÖSUNG = Dargestellt wird eine gefundene erfolgreiche Lösung für den konkreten beschriebenen Problemfall.\n\n6: DIE ERGEBNISSITUATION = Dargestellt wird die neue Situation nach der Umsetzung der Lösung im konkreten Fall.\n\n7. DIE MUSTER = Benannt werden die Muster, die sich in der/n gefundenen Lösung/en erkennen lassen. Von der Lösungbeschreibung im konkreten Fall zur möglichst griffigen Benennung eines Musters zu kommen, ist nicht rein deduktiv, sondern eher ein Prozess der Abduktion.\n\n8. DIE WECHSELWIRKUNGEN = Muster stehen und wirken nicht für sich allein, sondern stehen in Verbindung mit anderen Mustern. Erst aus dem Zusammenwirken mehrerer Muster entfaltet sich die Kraft des Ansatzes. An dieser Stelle wird auf weitere Muster(beschreibungen) verlinkt, mit denen der jeweilige Eintrag in Wechselwirkung steht.\n\n9. QUELLE = in einigen Fällen werden Angaben zur Zeit und Kontext der Enstehung dieser Musterbeschreibung gemacht."
+      },
+      "after": "58c66fdc8bcb2b8e",
+      "date": 1487289229873
+    },
+    {
+      "type": "edit",
+      "id": "58c66fdc8bcb2b8e",
+      "item": {
+        "type": "paragraph",
+        "id": "58c66fdc8bcb2b8e",
+        "text": "GRUPPE: [[Methodisches]]"
+      },
+      "date": 1487289238127
+    },
+    {
+      "type": "fork",
+      "date": 1487290975791
+    },
+    {
+      "type": "edit",
+      "id": "fd84956540e44934",
+      "item": {
+        "type": "paragraph",
+        "id": "fd84956540e44934",
+        "text": "Hier finden sich Beschreibungen, die seit 2014 in Workshops, durch Literaturstudium oder durch die Reflexion eigener Erfahrungen entwickelt wurden. Die Sammlung ist offen und ständig erweiterbar. Und selbstredend kann Vieles miteinander verknüpft werden. So wie man verschiedene Wörter zu zahllosen Sätzen mit sehr unterschiedlichen Bedeutungen zusammenfügen kann, so gewinnen auch einzelne Muster in einem jeweils anderen Kontext immer wieder neuen Sinn. Die Verknüpfungen machen es den Lesenden möglich, die Mustersammlung digital zu durchwandern.\n\nHier wird nun der Aufbau aller gesammelten Musterentwicklungen beschrieben, nicht zu verwechseln mit dem formalisierten [[Musteraufbau]], der in der Regel  knapper gefasst ist.  Die hier nachzulesenden ausführlicheren Einträge sollen durch die Darstellung konkreter Probleme in ihrem Kontext deutlich machen, wie ein jeweiliges Muster abgeleitet wurde.\n\nAUFBAU DER EINTRÄGE ZU MUSTERENTWICKLUNGEN AUF DIESEM BLOG:\n\n1: MUSTERNAME = Titel des Blogbeitrags\n\n2: MUSTERGRUPPE(N) = die Zugehörigkeit einer jeweiligen Musterbeschreibung zu einer oder mehreren Gruppen  (aka generisches Muster) ist in der ersten Zeile farbig hervorgehoben.\n\nAnschließend werden die konkreten FÄLLE beschrieben und zwar in folgender Abfolgen:;\n\n3: DER KONTEXT = Knappe Darstellung des Kontexts, in dem das konkrete Problem aufgetreten ist. Unter Umständen werden auch wichtige Interessen der Akteure benannt.\n\n4: DAS PROBLEM = Kurzdarstellung des zu lösenden Problems, das als Prototyp begriffen werden kann, denn beschrieben werden Probleme, die so oder ähnlich in vergleichbaren Kontexten immer und immer wieder auftauchen.\n\n5: DIE LÖSUNG = Dargestellt wird eine gefundene erfolgreiche Lösung für den konkreten beschriebenen Problemfall.\n\n6: DIE ERGEBNISSITUATION = Dargestellt wird die neue Situation nach der Umsetzung der Lösung im konkreten Fall.\n\n7. DIE MUSTER = Benannt werden die Muster, die sich in der/n gefundenen Lösung/en erkennen lassen. Von der Lösungbeschreibung im konkreten Fall zur möglichst griffigen Benennung eines Musters zu kommen, ist nicht rein deduktiv, sondern eher ein Prozess der Abduktion.\n\n8. DIE WECHSELWIRKUNGEN = Muster stehen und wirken nicht für sich allein, sondern stehen in Verbindung mit anderen Mustern. Erst aus dem Zusammenwirken mehrerer Muster entfaltet sich die Kraft des Ansatzes. An dieser Stelle wird auf weitere Muster(beschreibungen) verlinkt, mit denen der jeweilige Eintrag in Wechselwirkung steht.\n\n9. QUELLE = in einigen Fällen werden Angaben zur Zeit und Kontext der Enstehung dieser Musterbeschreibung gemacht."
+      },
+      "date": 1487290978066
+    },
+    {
+      "type": "fork",
+      "date": 1487290981270
+    }
+  ]
+}
