@@ -1,0 +1,54 @@
+{
+  "title": "Entscheidungsoptionen erweitern",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "071e36f57a267336",
+      "text": "Der Kontext\n\nWir befinden uns in einer Lebens- und Arbeitsgemeinschaft mit etwa 30 Erwachsenen und 30 Kindern in einer ländlichen Region. Es gibt fast nur Forstflächen, wenig Weide- und Ackerland. In der Regel wird nach dem Konsensprinzip entschieden, d.h. es müssen nicht immer alle mit „Ja“ stimmen, und eine Entscheidung kann auch passiv mitgetragen werden, doch im Prinzip gibt es damit eine Vetomöglichkeit. Die Sympathie füreinander ist groß, auch in diesem Konfliktfall. Insgesamt gibt es ein hohes Interesse an Inklusion und viel Gemeinschaftserfahrung.\n\nDas Problem\n\nDie Gruppe hatte sich beim Tierhaltung für einen strikten Konsens entschieden. Tierhaltung war damit auf dem Gelände nur möglich, wenn tatsächlich alle einverstanden waren. Eine Frau, die gut zur Gruppe passte, bewarb sich um Aufnahme, doch zu Erwerbszwecken wollte sie einige Milchkühe halten. Einige Mitglieder konnten diese Entscheidung nicht mittragen, obwohl sie sich menschlich gern für das neue Mitglied entschieden hätten. Ihnen war das „Nein zur Tierhaltung“ ein überaus wichtiges Anliegen. Damit waren Menschen, die Tierhaltung zum Lebensunterhalt betreiben, de facto ausgeschlossen.\n\nDie Lösung\n\nEine gute Voraussetzung für eine erfolgreiche Lösung war die mehrjährige Erfahrung eines erfolgreichen Konsensprinzips. Im Rahmen dessen gab es vier Entscheidungsoptionen\n\n    Ja\n\n    Enthaltung\n\n    Zustimmung mit Bedenken\n\n    Nein\n\nDie Gruppe beschloss, eine weitere Variante einzuführen.\n\n    Zustimmung mit schweren Bedenken\n\nDie Ergebnissituation\n\nDank der neuen Entscheidungsoption fühlten sich drei Personen, die in diesem Fall drei Jahre lang ihr Veto aufrecht erhalten hatten, schließlich hinreichend berücksichtigt. Sie sahen sich so in der Lage der Aufnahme eines weiteren Mitglieds zuzustimmen.\n\nDas Muster\n\n[M] [[Entscheidungsoptionen erweitern]]\n\n[[Wechselwirkungen]]\n\n[M] [[Explizit Anerkennung schenken]]\n\n[M] [[Wertekonflikte offenlegen]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Entscheidungsoptionen erweitern",
+        "story": []
+      },
+      "date": 1487289333965
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "071e36f57a267336",
+        "text": "Der Kontext\n\nWir befinden uns in einer Lebens- und Arbeitsgemeinschaft mit etwa 30 Erwachsenen und 30 Kindern in einer ländlichen Region. Es gibt fast nur Forstflächen, wenig Weide- und Ackerland. In der Regel wird nach dem Konsensprinzip entschieden, d.h. es müssen nicht immer alle mit „Ja“ stimmen, und eine Entscheidung kann auch passiv mitgetragen werden, doch im Prinzip gibt es damit eine Vetomöglichkeit. Die Sympathie füreinander ist groß, auch in diesem Konfliktfall. Insgesamt gibt es ein hohes Interesse an Inklusion und viel Gemeinschaftserfahrung.\n\nDas Problem\n\nDie Gruppe hatte sich beim Tierhaltung für einen strikten Konsens entschieden. Tierhaltung war damit auf dem Gelände nur möglich, wenn tatsächlich alle einverstanden waren. Eine Frau, die gut zur Gruppe passte, bewarb sich um Aufnahme, doch zu Erwerbszwecken wollte sie einige Milchkühe halten. Einige Mitglieder konnten diese Entscheidung nicht mittragen, obwohl sie sich menschlich gern für das neue Mitglied entschieden hätten. Ihnen war das „Nein zur Tierhaltung“ ein überaus wichtiges Anliegen. Damit waren Menschen, die Tierhaltung zum Lebensunterhalt betreiben, de facto ausgeschlossen.\n\nDie Lösung\n\nEine gute Voraussetzung für eine erfolgreiche Lösung war die mehrjährige Erfahrung eines erfolgreichen Konsensprinzips. Im Rahmen dessen gab es vier Entscheidungsoptionen\n\n    Ja\n\n    Enthaltung\n\n    Zustimmung mit Bedenken\n\n    Nein\n\nDie Gruppe beschloss, eine weitere Variante einzuführen.\n\n    Zustimmung mit schweren Bedenken\n\nDie Ergebnissituation\n\nDank der neuen Entscheidungsoption fühlten sich drei Personen, die in diesem Fall drei Jahre lang ihr Veto aufrecht erhalten hatten, schließlich hinreichend berücksichtigt. Sie sahen sich so in der Lage der Aufnahme eines weiteren Mitglieds zuzustimmen.\n\nDas Muster\n\n[M] [[Entscheidungsoptionen erweitern]]\n\n[[Wechselwirkungen]]\n\n[M] [[Explizit Anerkennung schenken]]\n\n[M] [[Wertekonflikte offenlegen]]"
+      },
+      "id": "071e36f57a267336",
+      "type": "add",
+      "date": 1487289339834
+    },
+    {
+      "type": "edit",
+      "id": "071e36f57a267336",
+      "item": {
+        "type": "paragraph",
+        "id": "071e36f57a267336",
+        "text": "Der Kontext\n\nWir befinden uns in einer Lebens- und Arbeitsgemeinschaft mit etwa 30 Erwachsenen und 30 Kindern in einer ländlichen Region. Es gibt fast nur Forstflächen, wenig Weide- und Ackerland. In der Regel wird nach dem Konsensprinzip entschieden, d.h. es müssen nicht immer alle mit „Ja“ stimmen, und eine Entscheidung kann auch passiv mitgetragen werden, doch im Prinzip gibt es damit eine Vetomöglichkeit. Die Sympathie füreinander ist groß, auch in diesem Konfliktfall. Insgesamt gibt es ein hohes Interesse an Inklusion und viel Gemeinschaftserfahrung.\n\nDas Problem\n\nDie Gruppe hatte sich beim Tierhaltung für einen strikten Konsens entschieden. Tierhaltung war damit auf dem Gelände nur möglich, wenn tatsächlich alle einverstanden waren. Eine Frau, die gut zur Gruppe passte, bewarb sich um Aufnahme, doch zu Erwerbszwecken wollte sie einige Milchkühe halten. Einige Mitglieder konnten diese Entscheidung nicht mittragen, obwohl sie sich menschlich gern für das neue Mitglied entschieden hätten. Ihnen war das „Nein zur Tierhaltung“ ein überaus wichtiges Anliegen. Damit waren Menschen, die Tierhaltung zum Lebensunterhalt betreiben, de facto ausgeschlossen.\n\nDie Lösung\n\nEine gute Voraussetzung für eine erfolgreiche Lösung war die mehrjährige Erfahrung eines erfolgreichen Konsensprinzips. Im Rahmen dessen gab es vier Entscheidungsoptionen\n\n    Ja\n\n    Enthaltung\n\n    Zustimmung mit Bedenken\n\n    Nein\n\nDie Gruppe beschloss, eine weitere Variante einzuführen.\n\n    Zustimmung mit schweren Bedenken\n\nDie Ergebnissituation\n\nDank der neuen Entscheidungsoption fühlten sich drei Personen, die in diesem Fall drei Jahre lang ihr Veto aufrecht erhalten hatten, schließlich hinreichend berücksichtigt. Sie sahen sich so in der Lage der Aufnahme eines weiteren Mitglieds zuzustimmen.\n\nDas Muster\n\n[M] [[Entscheidungsoptionen erweitern]]\n\n[[Wechselwirkungen]]\n\n[M] [[Explizit Anerkennung schenken]]\n\n[M] [[Wertekonflikte offenlegen]]"
+      },
+      "date": 1487289382091
+    },
+    {
+      "type": "edit",
+      "id": "071e36f57a267336",
+      "item": {
+        "type": "paragraph",
+        "id": "071e36f57a267336",
+        "text": "Der Kontext\n\nWir befinden uns in einer Lebens- und Arbeitsgemeinschaft mit etwa 30 Erwachsenen und 30 Kindern in einer ländlichen Region. Es gibt fast nur Forstflächen, wenig Weide- und Ackerland. In der Regel wird nach dem Konsensprinzip entschieden, d.h. es müssen nicht immer alle mit „Ja“ stimmen, und eine Entscheidung kann auch passiv mitgetragen werden, doch im Prinzip gibt es damit eine Vetomöglichkeit. Die Sympathie füreinander ist groß, auch in diesem Konfliktfall. Insgesamt gibt es ein hohes Interesse an Inklusion und viel Gemeinschaftserfahrung.\n\nDas Problem\n\nDie Gruppe hatte sich beim Tierhaltung für einen strikten Konsens entschieden. Tierhaltung war damit auf dem Gelände nur möglich, wenn tatsächlich alle einverstanden waren. Eine Frau, die gut zur Gruppe passte, bewarb sich um Aufnahme, doch zu Erwerbszwecken wollte sie einige Milchkühe halten. Einige Mitglieder konnten diese Entscheidung nicht mittragen, obwohl sie sich menschlich gern für das neue Mitglied entschieden hätten. Ihnen war das „Nein zur Tierhaltung“ ein überaus wichtiges Anliegen. Damit waren Menschen, die Tierhaltung zum Lebensunterhalt betreiben, de facto ausgeschlossen.\n\nDie Lösung\n\nEine gute Voraussetzung für eine erfolgreiche Lösung war die mehrjährige Erfahrung eines erfolgreichen Konsensprinzips. Im Rahmen dessen gab es vier Entscheidungsoptionen\n\n    Ja\n\n    Enthaltung\n\n    Zustimmung mit Bedenken\n\n    Nein\n\nDie Gruppe beschloss, eine weitere Variante einzuführen.\n\n    Zustimmung mit schweren Bedenken\n\nDie Ergebnissituation\n\nDank der neuen Entscheidungsoption fühlten sich drei Personen, die in diesem Fall drei Jahre lang ihr Veto aufrecht erhalten hatten, schließlich hinreichend berücksichtigt. Sie sahen sich so in der Lage der Aufnahme eines weiteren Mitglieds zuzustimmen.\n\nDas Muster\n\n[M] [[Entscheidungsoptionen erweitern]]\n\n[[Wechselwirkungen]]\n\n[M] [[Explizit Anerkennung schenken]]\n\n[M] [[Wertekonflikte offenlegen]]"
+      },
+      "date": 1487289495369
+    },
+    {
+      "type": "fork",
+      "date": 1487289507206
+    }
+  ]
+}
